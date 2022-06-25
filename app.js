@@ -5560,7 +5560,7 @@ function init() {
     html += `
     <div style="margin-bottom: 20px" class="mdui-center mdui-text-center">
        <a href="https://patelsujal.in" target="_blank">
-        <img src="https://img.shields.io/badge/website-2CA5E0?style=for-the-badge&logo=About.me&logoColor=white" alt="My Website">
+        <img src="https://cdn.jsdelivr.net/gh/c0der69/MyFiles@main/Patelsujal.in.png" alt="My Website">
       </a>
     </div>
     </div>
